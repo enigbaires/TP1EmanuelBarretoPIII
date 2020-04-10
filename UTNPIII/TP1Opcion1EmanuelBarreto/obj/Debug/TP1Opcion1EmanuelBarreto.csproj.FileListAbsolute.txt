@@ -1,0 +1,6 @@
+C:\emanuel\tp1\Tp1EmanuelBarretoPIII\UTNPIII\TP1Opcion1EmanuelBarreto\bin\Debug\TP1Opcion1EmanuelBarreto.dll
+C:\emanuel\tp1\Tp1EmanuelBarretoPIII\UTNPIII\TP1Opcion1EmanuelBarreto\bin\Debug\TP1Opcion1EmanuelBarreto.pdb
+C:\emanuel\tp1\Tp1EmanuelBarretoPIII\UTNPIII\TP1Opcion1EmanuelBarreto\obj\Debug\TP1Opcion1EmanuelBarreto.csprojAssemblyReference.cache
+C:\emanuel\tp1\Tp1EmanuelBarretoPIII\UTNPIII\TP1Opcion1EmanuelBarreto\obj\Debug\TP1Opcion1EmanuelBarreto.csproj.CoreCompileInputs.cache
+C:\emanuel\tp1\Tp1EmanuelBarretoPIII\UTNPIII\TP1Opcion1EmanuelBarreto\obj\Debug\TP1Opcion1EmanuelBarreto.dll
+C:\emanuel\tp1\Tp1EmanuelBarretoPIII\UTNPIII\TP1Opcion1EmanuelBarreto\obj\Debug\TP1Opcion1EmanuelBarreto.pdb
